@@ -25,7 +25,12 @@ Added some  new columns using the following formulas, So we can analyze the data
 For data analysis, we have some sample questions 
 <br> 
 1. Compare the Sales and Orders using a single chart.
-2. 
+ <br>
+For this insert a Pivot Table and a Pivot Chart.
+<br>
+![sales Vs orders ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/26e9c54d-681f-4d5c-b063-43954a170618)
+
+ 
 
 
 
