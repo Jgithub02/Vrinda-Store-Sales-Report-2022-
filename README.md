@@ -4,3 +4,5 @@ Vrinda store wants to create an annual sales report for the year 2022. So that, 
 
 # Steps Followed 
 # 1. Data Loading into Excel 
+[Uploading Vrinda_store_data_2022.xlsx…]()
+ 
