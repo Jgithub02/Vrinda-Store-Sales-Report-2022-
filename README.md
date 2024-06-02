@@ -15,7 +15,7 @@ To clean the 'Qty' column use 'Replace'
 ![one to 1](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/51b14668-9f42-4773-ba4d-85eaf88c04c5)
 
 Added some  new columns using the following formulas, So we can analyze the data easily.
-<br>1. "Age Group"
+<br>1. "Age Group" <br>
 =IF(E2>=50, "Senior", IF(E2>=30, "Adult", "Teenager"))
 <br>2. "Month"
 <br>
