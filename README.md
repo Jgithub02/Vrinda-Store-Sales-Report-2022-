@@ -20,3 +20,14 @@ Added some  new columns using the following formulas, So we can analyze the data
 <br>2. "Month"
 <br>
 =TEXT(G4,"mmm")
+
+# 3. Data Analysis:
+For data analysis, we have some sample questions 
+<br> 
+1. Compare the Sales and Orders using a single chart.
+2. 
+
+
+
+
+
