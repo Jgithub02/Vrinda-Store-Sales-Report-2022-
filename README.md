@@ -32,6 +32,10 @@ For this insert a Pivot Table and a Pivot Chart.
 ![pivot sales vs order ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/b6f6cfcc-65fd-47b4-ac47-e3331bff4c82)
 
 3. Who purchased more (Men or Women) in 2022?
+![men vs women ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/ebd70eff-f7cd-40a6-b654-9910bf2405e6)
+
+4. What are the different order statuses in 2022?
+
    
 
  
