@@ -36,6 +36,10 @@ For this insert a Pivot Table and a Pivot Chart.
 
 4. What are the different order statuses in 2022?
 
+![order status ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/500c639f-e5a7-4f1d-b5ef-a4b26a659ea8)
+
+5. List of top 5 states contributing to sales. 
+
    
 
  
