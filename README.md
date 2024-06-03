@@ -51,8 +51,7 @@ By using various Pivot Tables and Pivot Charts find out the answers to the above
   # Dashboard:
 
 Using MS Excel, I created an amazing dashboard to easily analyze the insights of sales of the Vrinda store. 
-
-![dashboard vrinda store ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/78a97f30-821a-4e48-b42b-023969a1c33b)
+![new dashboard ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/646d47f5-1974-407b-a187-a55872a8a806)
 
 # 5. Sample Insights: 
 Women are more likely to buy compared to men(~ 65%). 
