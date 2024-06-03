@@ -38,7 +38,11 @@ For this insert a Pivot Table and a Pivot Chart.
 
 ![order status ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/500c639f-e5a7-4f1d-b5ef-a4b26a659ea8)
 
-5. List of top 5 states contributing to sales. 
+5. List of top 5 states contributing to sales.
+![top 5 state ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/c10e8b78-c4fb-46e0-8cda-2ce657247ac4)
+
+6. Which channel is contributing to maximum sales?
+
 
    
 
