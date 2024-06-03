@@ -28,6 +28,7 @@ For data analysis, we have some sample questions
  <br>
 For this insert a Pivot Table and a Pivot Chart.
 
+![pivot sales vs order ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/b6f6cfcc-65fd-47b4-ac47-e3331bff4c82)
 
  
 
