@@ -22,10 +22,17 @@ Added some  new columns using the following formulas, So we can analyze the data
 =TEXT(G4,"mmm")
 
 # 3. Data Analysis:
-For data analysis, we have some sample questions 
+For data analysis, we have some sample questions.
+<br>
+1. Compare the sales and orders using a single chart.
+2. Which month got the highest sales and orders?
+<br>
 For this insert a Pivot Table and a Pivot Chart.
 
 ![pivot sales vs order ](https://github.com/Jgithub02/Vrinda-Store-Sales-Report-2022-/assets/164842901/b6f6cfcc-65fd-47b4-ac47-e3331bff4c82)
+
+3. Who purchased more (Men or Women) in 2022?
+   
 
  
 
